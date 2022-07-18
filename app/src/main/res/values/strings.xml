@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">notification_manager</string>
+
+    <string name="notification">New Notification</string>
+    <string name="notification_channel_description">This is a sample notification channel for demonstration purpose.</string>
+
+
+</resources>
